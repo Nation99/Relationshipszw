@@ -2856,6 +2856,45 @@ pubmatic.com, 160222, RESELLER, 5d62403b186f2ace
 spotx.tv, 71426, RESELLER, 7842df1d2fe2db34
 onetag.com, 769b9ae3d197a06-OB, DIRECT
 adform.com, 1942, RESELLER
+gliacloud.com,6092,DIRECT
+gliacloud.com,6063,DIRECT
+gliacloud.com,6070,DIRECT
+gliacloud.com,6078,DIRECT
+gliacloud.com,6082,DIRECT
+gliacloud.com,6066,DIRECT
+gliacloud.com,6085,DIRECT
+gliacloud.com,6060,DIRECT
+gliacloud.com,6076,DIRECT
+gliacloud.com,6064,DIRECT
+gliacloud.com,6079,DIRECT
+gliacloud.com,6088,DIRECT
+gliacloud.com,6073,DIRECT
+gliacloud.com,6093,DIRECT
+gliacloud.com,6072,DIRECT
+tapmind.com,TMP10291,DIRECT
+gliacloud.com,6071,DIRECT
+gliacloud.com,6086,DIRECT
+gliacloud.com,6094,DIRECT
+gliacloud.com,6095,DIRECT
+gliacloud.com,6084,DIRECT
+gliacloud.com,6068,DIRECT
+gliacloud.com,6061,DIRECT
+gliacloud.com,6065,DIRECT
+gliacloud.com,6067,DIRECT
+gliacloud.com,6089,DIRECT
+gliacloud.com,6087,DIRECT
+gliacloud.com,6090,DIRECT
+gliacloud.com,6074,DIRECT
+gliacloud.com,6091,DIRECT
+gliacloud.com,6081,DIRECT
+gliacloud.com,6075,DIRECT
+gliacloud.com,6077,DIRECT
+gliacloud.com,6080,DIRECT
+gliacloud.com,6083,DIRECT
+tapmind.com,TMP10183,DIRECT
+gliacloud.com,6062,DIRECT
+gliacloud.com,6069,DIRECT
+google.com, pub-9709950465037408, DIRECT, f08c47fec0942fa0
 onetag.com,5cca11704094eb8,RESELLER
 algorix.co,54190,RESELLER,5b394c12fea27a1d
 markappmedia.site, 587286, RESELLER
